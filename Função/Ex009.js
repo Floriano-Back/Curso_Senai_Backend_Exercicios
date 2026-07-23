@@ -1,4 +1,4 @@
-prompt = require("prompt-sync")();
+const prompt = require("prompt-sync")();
 
 let peso = Number(prompt("Digite seu peso:"));
 let altura = Number(prompt("Digite sua altura:"));

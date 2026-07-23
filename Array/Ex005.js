@@ -1,4 +1,4 @@
-let prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')();
 let numero = [];
 let par =0, impar = 0, totalPar =0; totalImpar = 0;
 
